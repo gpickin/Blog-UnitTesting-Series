@@ -38,6 +38,16 @@
 				
 			</li>
 			
+			<li>
+				<a href="/blog03/">04 - Testing with Dependencies</a>
+				<ul>
+					<li><a href="/blog04/Step1/">Step 1 - Create a test for a New Dependent Function</a></li>
+					<li><a href="/blog04/Step2/">Step 2 - Create our saveDomainName function to satisfy the test</a></li>
+					<li><a href="/blog04/Step3/">Step 3 - How do we Resolve our Dependencies</a></li>
+				</ul>
+				
+			</li>
+			 
 		</ul>
 	</body>
 </html>
