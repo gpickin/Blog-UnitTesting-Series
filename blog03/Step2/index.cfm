@@ -9,7 +9,7 @@
 		<h1>Step 2 - Add isValidDomainName() Method</h1>
 		
 		<p><a href="/index.cfm">Back to Series Index</a></p>
-		<p><a href="/index.cfm">Back to Blog Index</a></p>
+		<p><a href="../index.cfm">Back to Blog Index</a></p>
 		
 		<ul>
 			<li>View Code to See File Setup</li>
