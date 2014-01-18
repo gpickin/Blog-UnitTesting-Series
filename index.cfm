@@ -60,6 +60,18 @@
 			</li>
 			 
 			 
+			 
+			  
+			 <li>
+				<a href="/blog06/">06 - Mocking External Dependencies Part 2</a>
+				<ul>
+					<li><a href="/blog06/Step1/">Step 1 - Mock our WebsiteDAO.cfc</a></li>
+					<li><a href="/blog06/Step2/">Step 2 - Mock our getWebsite() method in our Mocked WebsiteDAO</a></li>
+					<li><a href="/blog06/Step3/">Step 3 - Create testGetWebsiteNotFound() test and mock the results</a></li>
+				</ul>
+				
+			</li>
+			 
 		</ul>
 		
 	</body>
